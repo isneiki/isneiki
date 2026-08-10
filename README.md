@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Freelancing<br>🌱 I’m currently learning Back-End<br>👯 I’m looking to collaborate on Websites and Tools<br>💬 Ask me about React, TailwindCSS & ExpressJS<br>📫 How to reach me: isneiki on discord<br>⚡ Fun fact: I try my best
+🔭 I’m currently working on Freelancing<br>🌱 I’m currently learning Back-End<br>👯 I’m looking to collaborate on Websites and Tools<br>💬 Ask me about React, TailwindCSS & ExpressJS<br>📫 How to reach me: isneikii on discord<br>⚡ Fun fact: I try my best
 
 
 ## 🌐 Socials:
