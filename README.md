@@ -1,7 +1,7 @@
 # 💫 About Me:
 Brazilian Full-Stack Web Developer.<br>
 I mainly focus on Front-End. None of my projects here come from templates or are assisted by AI
-<br<br>
+<br><br>
 🔭 I’m currently working on Freelancing<br>🌱 I’m currently learning NuxtJs<br>👯 I’m looking to collaborate on Websites and Tools<br>💬 Ask me about Nuxt, TailwindCSS & VueJS<br>📫 How to reach me: isneikii on discord or thaleskaua66@gmail.com<br>⚡ Fun fact: I try my best
 
 ## 🔨 Tools & Tech
